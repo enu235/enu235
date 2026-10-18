@@ -1,53 +1,126 @@
-<h1 align="center">Hi, I'm Allan Miller 👋</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Allan%20Miller&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38)
 
 <p align="center">
-  <b>Cloud / AI engineer</b> · Lubbock, TX<br/>
-  Building at the intersection of <b>Azure</b> and <b>autonomous agents</b> — mostly in Rust.
+  <em>Support Escalation Engineer at Microsoft · Lubbock, TX</em><br/>
+  Building intelligent systems with Azure AI and Microsoft Foundry
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Bicep" />
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure AI" />
-</p>
+</div>
 
 ---
 
-### 🚀 Featured projects
+### Tech Stack
 
-| Project | What it is |
-| --- | --- |
-| **[orchapi](https://github.com/enu235/orchapi)** | Local Rust server that turns Microsoft To-Do & Planner tasks into autonomous AI coding sessions across Claude Code, Copilot CLI, and Codex |
-| **[clodhopper](https://github.com/enu235/clodhopper)** | Rust harness for switching between local AI coding tools — provider readiness, profiles, and a shared web console |
-| **[azure-aitoolsconnect](https://github.com/enu235/azure-aitoolsconnect)** | Rust CLI that verifies client-to-Azure-AI-Services connectivity — auth, endpoints, and network paths |
-| **[skillchain](https://github.com/enu235/skillchain)** | Hierarchical research pipeline of Claude Code skills & subagents that produces Excel + PowerPoint deliverables |
-| **[AzureAIAllowList](https://github.com/enu235/AzureAIAllowList)** | Generates firewall/NSG allowlists for secured AI Foundry & Azure ML workspaces |
-| **[spacerock](https://github.com/enu235/spacerock)** | WebAssembly Asteroids-style game in Rust — browser-native via wasm-pack |
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
-### 🛠️ Tech I reach for most
+**Focus:** Azure AI Foundry · Speech Services · Document Intelligence · Content Understanding · Vision
 
-`Rust` · `Python` · `C#` · `PowerShell` · `Bicep` · `Azure AI Foundry / Search / OpenAI`
+---
 
-### 🔭 Currently exploring
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [orchapi](https://github.com/enu235/orchapi)
+Local Rust server that turns Microsoft To-Do & Planner tasks into autonomous coding sessions across Claude, Copilot CLI, and Codex.
+
+`Rust` `Automation` `Orchestration`
+
+</td>
+<td width="50%" valign="top">
+
+#### [clodhopper](https://github.com/enu235/clodhopper)
+Rust harness for switching between local coding tools with provider readiness checks, profiles, and unified web console.
+
+`Rust` `CLI` `Tooling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [azure-aitoolsconnect](https://github.com/enu235/azure-aitoolsconnect)
+Rust CLI that verifies client-to-Azure-AI-Services connectivity including authentication, endpoints, and network paths.
+
+`Rust` `Azure` `Diagnostics`
+
+</td>
+<td width="50%" valign="top">
+
+#### [skillchain](https://github.com/enu235/skillchain)
+Hierarchical research pipeline that produces Excel and PowerPoint deliverables from structured workflows.
+
+`Python` `Automation` `Research`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [AzureAIAllowList](https://github.com/enu235/AzureAIAllowList)
+Generates firewall and NSG allowlists for secured AI Foundry and Azure ML workspaces in private network topologies.
+
+`Python` `Azure` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+#### [spacerock](https://github.com/enu235/spacerock)
+Browser-native Asteroids-style game built in Rust and compiled to WebAssembly via wasm-pack.
+
+`Rust` `WebAssembly` `Game Dev`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Current Focus
 
 - Multi-agent orchestration across local coding CLIs
 - Private-network AI Foundry topologies and trusted-service patterns
+- Azure AI content understanding and document intelligence pipelines
+- WebAssembly for high-performance browser applications
 
-### 📫 Reach me
+---
+
+### Open Source Contributions
+
+Active contributor to [microsoft-foundry/foundry-samples](https://github.com/microsoft-foundry/foundry-samples) — contributing samples, patterns, and reference implementations for the Microsoft Foundry platform.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enu235&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enu235&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+---
+
+### Contact
 
 [![Email](https://img.shields.io/badge/enu235@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:enu235@gmail.com)
 [![GitHub](https://img.shields.io/badge/@enu235-181717?style=flat&logo=github&logoColor=white)](https://github.com/enu235)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enu235&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enu235&hide_border=true&theme=tokyonight&layout=compact" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enu235&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
+
+<sub>Tech professional since the mid-1990s</sub>
+
+</div>
