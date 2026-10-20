@@ -3,8 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Allan%20Miller&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38)
 
 <p align="center">
-  <em>Support Escalation Engineer at Microsoft · Lubbock, TX</em><br/>
-  Building intelligent systems with Azure AI and Microsoft Foundry
+  <em>Tech enthusiast building with cloud and AI · Lubbock, TX</em>
 </p>
 
 </div>
@@ -95,7 +94,7 @@ Browser-native Asteroids-style game built in Rust and compiled to WebAssembly vi
 
 ### Open Source Contributions
 
-Active contributor to [microsoft-foundry/foundry-samples](https://github.com/microsoft-foundry/foundry-samples) — contributing samples, patterns, and reference implementations for the Microsoft Foundry platform.
+Active contributor to [microsoft-foundry/foundry-samples](https://github.com/microsoft-foundry/foundry-samples) — contributing samples, patterns, and reference implementations for the Foundry platform.
 
 ---
 
